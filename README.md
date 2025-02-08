@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Hoang Cong Du
+- 👀 I’m interested in IT
+- 🌱 I’m currently studying BTEC FPT
+- 📫 How to reach me : #phone_number 0775751954
+- ⚡ Fun fact: I don’t have armpit hair yet =)))
