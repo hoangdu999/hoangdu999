@@ -1,6 +1,6 @@
 <img src="/luffy.jpg" alt="GitHub Banner" width="100%" />
 
-# Hello World! <br> I'm Sunao, Japanese translator and full-stack developer based in Somewhere 👋🏼
+# Hello World! <br> I'm Joo, Japanese translator and full-stack developer based in Somewhere 👋🏼
 
 🛜 Currently working on my own [webpage](https://www.sunaos.com)<br>👨🏼‍🎓 Studying Business | Web Developer in Japan & Vietnam<br>👨🏼‍💻 Working as a Web Developer/BrSE since 2025 <br>🎬 Just started out with my Youtube channel <i>[Naruto Mobile Tencent](https://www.youtube.com/@NarutoMobileTencent)</i>
 
@@ -13,5 +13,5 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lovepoity/lovepoity/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lovepoity/lovepoity/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
-
