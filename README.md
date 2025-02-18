@@ -1,4 +1,4 @@
-<img src="/luffy.jpg" alt="GitHub Banner" width="100%" />
+
 
 # Hello World! <br> I'm Joo, Japanese translator and full-stack developer based in Somewhere 👋🏼
 
